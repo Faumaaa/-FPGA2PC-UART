@@ -52,4 +52,4 @@ Outputs:
 ![output](https://github.com/Faumaaa/-FPGA2PC-UART/assets/134162066/966c1b67-65de-4328-b5f1-2df5063fec17)
 
 ---
-All Verilog module files are uploaded to this repository, and this project has been run on ISE Project Navigator. It is also compatible with ModelSim and online Verilog compilers.
+All Verilog module files are uploaded to this repository, and this project has been run on ISE Project Navigator with FPGA model NEXYS3. It is also compatible with ModelSim and online Verilog compilers.
