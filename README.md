@@ -43,7 +43,6 @@ RTL Schematics
 ![RTL pic1](https://github.com/Faumaaa/-FPGA2PC-UART/assets/134162066/5687140d-3228-46f4-9282-84e68b7f7108)
 
 ![RTL pic2](https://github.com/Faumaaa/-FPGA2PC-UART/assets/134162066/edc5e170-5c2a-4bfb-915f-ec1094d73194)
-
 ![RTL pic 3](https://github.com/Faumaaa/-FPGA2PC-UART/assets/134162066/4788ea4f-114a-4bc2-8fb8-f0a051e54427)
 
 Outputs:
