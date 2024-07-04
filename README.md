@@ -33,15 +33,22 @@ Select the serial port connected to the FPGA.
 Configure the baud rate and other settings to match the FPGA's UART configuration.
 Monitor Data: Enter numbers on the PC and see them displayed on the TeraTerm terminal, verifying successful communication between the FPGA and PC
 Below I have attached block diagram, RTL diagrams and output pics to make to better understand the project.
+
 Block Diagram
+
 ![block diagram](https://github.com/Faumaaa/-FPGA2PC-UART/assets/134162066/8422fcd5-4bf0-468e-acc2-77fd9cdd229c)
 
 RTL Schematics
+
 ![RTL pic1](https://github.com/Faumaaa/-FPGA2PC-UART/assets/134162066/5687140d-3228-46f4-9282-84e68b7f7108)
+
 ![RTL pic2](https://github.com/Faumaaa/-FPGA2PC-UART/assets/134162066/edc5e170-5c2a-4bfb-915f-ec1094d73194)
+
 ![RTL pic 3](https://github.com/Faumaaa/-FPGA2PC-UART/assets/134162066/4788ea4f-114a-4bc2-8fb8-f0a051e54427)
 
 Outputs:
+
+
 ![fpga](https://github.com/Faumaaa/-FPGA2PC-UART/assets/134162066/dee6773a-61fd-4253-8412-bbc90ecd1ed3)
 ![output](https://github.com/Faumaaa/-FPGA2PC-UART/assets/134162066/966c1b67-65de-4328-b5f1-2df5063fec17)
 
