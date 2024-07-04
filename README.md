@@ -17,6 +17,8 @@ Working: Connects the transmitter, receiver, and debouncing button check modules
 FPGA Constraint Mapping File
 Function: Maps FPGA I/O pins to specific physical pins on the FPGA board.
 Working: Defines the pin assignments for UART signals (TX, RX), buttons, and other I/O peripherals. Ensures proper electrical connections and functionality.
+Below I have attached block diagram, RTL diagrams and output pics to make to better understand the project.
+![block diagram](https://github.com/Faumaaa/-FPGA2PC-UART/assets/134162066/8422fcd5-4bf0-468e-acc2-77fd9cdd229c)
 
 ---
 All Verilog module files are uploaded to this repository, and this project has been run on ISE Project Navigator. It is also compatible with ModelSim and online Verilog compilers.
